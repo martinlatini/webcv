@@ -1,0 +1,89 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  text-align: center;
+  padding-top: 5rem;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  text-align: center;
+  padding-top: 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  text-align: center;
+  margin: 5rem 0 2rem 0;
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  color: #D8B9C3;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0 7%;
+}
+
+
+/* main */
+
+#main {
+  background-color: #52057B;
+}
+
+.webdev {
+  font-family: "Open Sans", sans-serif;
+  color: #BC6FF1;
+  text-align: center;
+  padding: 1.5rem 0 1.5rem 0;
+  font-size: 2.5rem;
+}
+
+
+.pc-img {
+  width: 60%;
+  margin-top: 200px;
+  margin-bottom: 40px;
+  padding-bottom: 12rem;
+}
+
+/* about me */
+
+#about {
+  background-color: #892CDC;
+  padding: 3.5rem 0;
+}
+
+/* contact info */
+
+#contact-info {
+background-color: #52057B;
+text-align: center;
+}
+
+.email-link {
+  color: #fff;
+}
+
+.email-link:hover {
+  color: #D8B9C3;
+}
+
+.email {
+  margin: 2rem 0 2rem 0;
+}
+
+.phone {
+  margin: 2rem 0 2rem 0;
+}
+
+.phone-number {
+  padding-bottom: 6rem;
+}
